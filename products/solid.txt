@@ -1,0 +1,21 @@
+7009,Polar White,polar_white,s,
+7109,Vertiline White,vertiline_white,s,
+8009SG,White Super Glossy,white_super_glossy,s,
+7039,Mud Ash,mud_ash,n,
+
+7001,Black Coal,black_coal,n,
+7001SG,Black SUper Glossy,Black_super_Glossy,s,
+7043,Yellow Shine,yellow_shine,n,
+7036,Orange Fair,orange_fair,s,
+
+7033,Red Imperial,red_imperial,n,
+7033SG,Red Super Glossy,red_super_glossy,s,
+7017,Magenta,Magenta,s,
+7021,Purple Tola,purple_tola,n,
+
+7075,Slate Dust,slate_dust,p,
+7193,Frost Dust,frost_dust,p,
+7028,Green Grass,green_grass,n,
+7052,Blue Heaven,blue_heaven,n,
+
+

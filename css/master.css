@@ -1,0 +1,131 @@
+body {
+	margin:0px 0px 0px 0px;
+	background-color: #666666;
+	background-image:url(../images/bg.gif);
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+}
+
+img { border:none; }
+
+.mainwrapper{
+	background-image:url(../images/bgbot.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+	height:650px;
+	padding-top:10px;
+	}
+
+.casing{
+	margin:auto;
+	width:914px;
+	height:650px;
+	background-image:url(../images/main.jpg);
+	background-position:bottom;
+	background-repeat:no-repeat;
+	}
+
+.clock{
+	font-size:11px;
+	color:#999;
+	padding-left:30px;
+	}
+
+.botnav{
+	font-size:11px;
+	color:#666;
+	padding-left:20px;
+	padding-top:5px;
+	}
+
+#isi {
+	width:450px;
+	height:520px;
+	}
+
+	#isi .logo{
+	height:92px;
+	width:inherit;
+	text-align:right;
+	padding-top:40px;
+	}
+	
+	#isi .judul{
+	width:inherit;
+	text-align:left;
+	font-size:19px;
+	text-transform:lowercase;
+	letter-spacing:-0.08em;
+	color:#666;
+	padding:10px 0px 0px 20px;
+	}
+	
+	#isi .parg{
+	font-size:11px;
+	text-align:justify;
+	padding:10px 15px 0px 20px;
+	line-height:1.7;
+	color:#333;
+	height:280px;
+	}
+	
+	#isi .nav2{
+	height:106px;
+	width:inherit;
+	text-align:right;
+	padding-top:10px;
+	}
+	
+	#nav1{
+	height:16px;
+	background-image:url(../images/arr.gif);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	font-size:11px;
+	padding:10px 20px 0px 15px;
+	margin-left:20px;
+	color:#999;
+	text-align:right;
+	}
+	
+	#nav1 a{
+	font-size:11px;
+	color:#999;
+	text-decoration:none;
+	}
+	
+	#nav1 a:hover{
+	font-size:11px;
+	color:#666;
+	text-decoration:none;
+	background-color:#CCCCCC;
+	}
+	
+	.alamat{
+	font-size:18px;
+	color:#666;
+	padding:20px 20px 0px 0px;
+	text-align:right;
+	}
+	
+	.alamat2{
+	font-size:11px;
+	color:#666;
+	text-align:right;
+	padding:0px 20px 0px 0px;
+	}
+	
+	.alamat3{
+	font-size:18px;
+	color:#666;
+	text-align:right;
+	padding:0px 45px 0px 0px;
+	background-image:url(../images/ask.gif);
+	background-position:top right;
+	background-repeat:no-repeat;
+	}
+	
+	.promo{
+	font-size:14px;
+	font-weight:bold;
+	color:#666666;
+	}

@@ -1,0 +1,4 @@
+- upload image utama di folder product/img
+- upload thumbnailnya di folder procut/thumb
+- edit keterangan tentang nama file dan nama product yang ditambahkan di file txt folder product : wood,solid,fancy
+- edit file cat.php di root folder, tambah jumlah max row product yang ditampilkan per halaman.

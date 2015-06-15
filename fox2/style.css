@@ -1,0 +1,119 @@
+body { background: #222222; }
+
+div{
+  display: block;
+  position: absolute;
+  margin: auto;
+  top:0; bottom:0; left:0; right:0;
+}
+
+.wrapper{
+  height: 400px;
+  width: 600px;
+  margin: auto;
+  font-family: 'Clicker Script', cursive;
+}
+
+.moon {
+  height: 120px;
+  width: 120px;
+  background: #666666;
+  border-radius: 60px;
+  box-shadow: 0 0 60px 1px #444444;
+}
+
+.moon:before {
+    border-radius: 60px;
+    box-shadow: 10px -50px 0 0 #444,
+                50px 0 0 0 #444,
+                50px -37px 0 10px #444;
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 30px;
+    bottom: 10px;
+    background: #444;
+}
+
+.cat {
+  background:#EEEEEE;
+  height: 60px;
+  top: auto;
+  bottom: 240px;
+  width: 60px;
+  z-index: 0;
+  -webkit-transition: all 0.5s ease-out;
+}
+
+.cat:before, .cat:after {
+    width: 0;
+    height: 0;
+    top: -10px;
+    position: absolute;
+    content: "";
+}
+
+.cat:before{
+    border-left: 0px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #EEE;
+    left: 0;
+}
+
+.cat:after{
+    border-right: 0px solid transparent;
+    border-left: 15px solid transparent;
+    border-bottom: 15px solid #EEE;
+    right: 0;
+}
+
+.cat .eyes{
+  position: absolute;
+  height: 8px; width: 8px;
+  background: #333;
+  border-radius: 100%;
+  top: 15px;
+}
+
+.cat .eyes.left{ left: 12px; }
+.cat .eyes.right{  right: 12px; }
+
+.cat .mouth{
+  position: absolute;
+  height: 10px; width: 60%;
+  background: #333;
+  border-radius: 0 0 50% 50%;
+  top: 28px;
+  margin: auto;
+  left: 0; right: 0;
+}
+
+.wrapper:hover .cat{
+  bottom: 200px;
+}
+
+@-webkit-keyframes clouds /*Safari and Chrome*/ {
+0 {margin-left:0;}
+25% {margin-left:100px;}
+50% {margin-left:0;}
+75% {margin-left:30px;}  
+100% {margin-left: 0;}
+}
+
+h1{
+  color: #999;
+  text-align: center;
+  -webkit-transition: opacity 1s linear;
+  opacity: 0;
+  font-weight: bold;
+  text-shadow: 0px 0px 50px #AAA;
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+
+.wrapper:hover h1{
+  opacity: 1;
+}

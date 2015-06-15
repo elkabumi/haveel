@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+img {border:none;}
+
+.rows{
+	height:110px;
+}
+
+.tmpt{
+	width:150px;
+	height:110px;
+	float:left;
+}
+
+.thum{
+	padding:5px 0px 0px 10px;
+}
+
+
+.det {
+	height:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	color:#666;
+	padding:5px 0px 0px 15px;
+	text-align:left;
+}
+

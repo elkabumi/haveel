@@ -1,0 +1,20 @@
+
+1148,Hairline,hairline,p,
+1148N,New Hairline,New_Hairline,s,
+1003,Smoothie Hairline,smoothie_hairline,s,
+1149,Wave Hairline,wave_hairline,s,
+
+1150,Cooper,cooper,s,
+1152,Bronze,bronze,s,
+1153,Fire Flush,fire_flush,n,
+1154,Silk Ribbon,silk_ribbon,n,
+
+1155,Black Steel,black_steel,n,
+1156,White Steel,white_steel,n,
+1157,Black Plate,black_plate,n,
+1158,White Plate,white_plate,n,
+
+1159,Red Steel,red_steel,n,
+1216,Rustie,Rustie,s,
+0000,,,,
+0000,,,,

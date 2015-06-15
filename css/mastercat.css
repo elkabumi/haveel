@@ -1,0 +1,171 @@
+body {
+	margin:0px 0px 0px 0px;
+	background-color: #666666;
+	background-image:url(../images/bg.gif);
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+}
+
+img { border:none; }
+
+.mainwrapper{
+	background-image:url(../images/bgbot.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+	padding-top:10px;
+	}
+
+.casing{
+	margin:auto;
+	width:914px;
+	background-image:url(../images/verbod.gif);
+	background-repeat:repeat-y;
+	}
+
+.clock{
+	font-size:11px;
+	color:#999;
+	padding-left:30px;
+	}
+
+.botnav{
+	font-size:11px;
+	color:#666;
+	padding-left:20px;
+	}
+
+	.logo{
+	width:inherit;
+	text-align:right;
+	padding-top:8px;
+	background-image:url(../images/bg.gif);
+	}
+	
+	.judul{
+	font-size:18px;
+	color:#666;
+	padding:10px 0px 0px 43px;
+	}
+	
+	.judul2{
+	font-size:14px;
+	color:#999;
+	padding:15px 0px 7px 43px;
+	font-weight:bold;
+	}
+
+	.subjudul{
+	font-size:11px;
+	color:#999;
+	padding:3px 0px 15px 43px;
+	}
+	
+	.parg{
+	font-size:11px;
+	text-align:justify;
+	padding:0px 50px 10px 43px;
+	line-height:1.7;
+	color:#666;
+	}
+	
+	#nav1{
+	height:16px;
+	background-image:url(../images/arr.gif);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	font-size:11px;
+	padding:10px 0px 0px 15px;
+	margin-left:20px;
+	color:#999;
+	}
+	
+	#nav1 a{
+	font-size:11px;
+	color:#999;
+	text-decoration:none;
+	}
+	
+	#nav1 a:hover{
+	font-size:11px;
+	color:#666;
+	text-decoration:none;
+	background-color:#CCCCCC;
+	}
+
+.katalog{
+	font-size:13px;
+	color:#777;
+	}
+
+	.katlink{
+	font-size:13px;
+	color:#777;
+	text-align:center;
+	padding-top:10px;
+	}
+	
+	.katlink a{
+	font-size:13px;
+	color:#D6D6D6;
+	text-decoration:none;
+	background-image:url(../images/page2.gif);
+	}
+	
+	.katlink a:hover{
+	font-size:13px;
+	color:#777;
+	text-decoration:none;
+	background-image:url(../images/page.gif);
+	}
+		
+	.bgtab{
+	background-image:url(../images/bgtab2.gif);
+	background-position:center;
+	background-repeat:no-repeat;
+	}
+	
+	.bgtabw{
+	background-image:url(../images/bgtabwide.gif);
+	background-position:center;
+	background-repeat:no-repeat;
+	}
+	
+	.alamat{
+	font-size:18px;
+	color:#666;
+	padding:10px 20px 0px 0px;
+	text-align:right;
+	}
+	
+	.alamat2{
+	font-size:11px;
+	color:#666;
+	text-align:right;
+	padding:0px 20px 0px 0px;
+	}
+	
+	.alamat2 a{
+	font-size:12px;
+	color:#888;
+	text-align:right;
+	padding:0px 0px 0px 0px;
+	text-decoration:none;
+	}
+	
+	.alamat2 a:hover{
+	font-size:12px;
+	color:#888;
+	text-align:right;
+	padding:0px 0px 0px 0px;
+	text-decoration:underline;
+	}
+	
+	.alamat3{
+	font-size:14px;
+	color:#666;
+	font-weight:bold;
+	padding-top:10px;
+	}
+
+.hmg {
+	padding:0px 0px 20px 5px;
+	}

@@ -1,0 +1,1 @@
+<a href="index.php"> about </a>&nbsp;|&nbsp;<a href="index.php?id=assembly"> assembly </a>&nbsp;|&nbsp;<a href="index.php?id=cleaning"> cleaning </a>&nbsp;|&nbsp;<a href="index.php?id=chemical"> chemical resistance </a>&nbsp;|&nbsp;<a href="index.php?id=spec"> specifications </a>

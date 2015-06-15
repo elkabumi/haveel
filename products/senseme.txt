@@ -1,0 +1,27 @@
+9741W3,Fausta Zebra,Fausta_Zebra,n,
+9474W3,Proclaim Zebra,Proclaim_Zebra,n,
+
+9342W,Excellent Teak,Excellent_Teak,s,
+9607W,Exotic Teak,Exotic_Teak,s,
+9073W,Capital Maple,capital_maple,np,
+9611W,Maple Wood,Maple_Wood,s,
+
+9942W,Royal Zear,royal_zear,np,
+9041W,Empire Beech,empire_beech,np,
+9803W,Glorious Zebra,glorious_zebra,np,
+9852W,Harvest Wood,harvest_wood,np,
+
+9021W,Peace Maple,Peace_Maple,s,
+9020W,Miracle Walnut,Miracle_Walnut,s,
+9213W2,Refresh Zebra,Refresh_Zebra,s,
+9143W2,Wild Walnut,wild_walnut,s,
+
+7001F,Black Flowish ,Black_Flowish,s,
+7033F,Red Flowish,Red_Flowish,s,
+1160,Classical White,Classical_White,s,
+7001R,Black_retro,Black_retro,s,
+
+7033R,Red Retro,Red_Retro,s,
+7001S,Black Stallion,Black_Stallion,s,
+7033S,Red Stallion,Red_Stallion,s,
+0000,,,,

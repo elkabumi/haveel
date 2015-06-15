@@ -1,0 +1,25 @@
+19631,Traffertino,Traffertino,n,
+19055SG,Morvei White,Morvei_White,n,
+19533,Cerpegiano,Cerpegiano,n,
+
+7807,Cambrice,Cambrice,s,
+7073,Dove Orange Ribbon,Dove_Orange_Ribbon,s,
+7072,Green Blue Ribbom,green_blue_Ribbon,s,
+7425,Fabric Kairos,Fabric_Kairos,s,
+
+9023G,Woody Wood,Woody_Wood,s,
+9301G,Sanctuary Mahagany,Sanctuary_Mahagany,s,
+9201G,Red Burl Gloss,red_burl_gloss,s,
+9332G,Pine Line,Pine_Line,s,
+
+9070A,Alumina Wave,Alumina_Wave,s,
+9040T,Fortune Line,Fortune_Line,s,
+9022T,Eastern Pine,Eastern Pine,s,
+7802L,Gentle Brown Leather,Gentle_Brown_Leather,s,
+
+
+
+
+
+
+
