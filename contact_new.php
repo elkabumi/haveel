@@ -74,7 +74,7 @@ $(document).ready(function(){
       <div class="judul"> &nbsp;or you can use form below ...</div>
 
       <!--formulir section -->
-<form enctype='multipart/form-data' action='process.php' method='post'>
+<form enctype='multipart/form-data' action='process_new.php' method='post'>
 <div class="warn">Please fill in all fields marked with a *</div>
 <table width="600" border="0" style="margin-left:10px;" cellpadding="10" cellspacing="1" bgcolor="#E8E8E8"  class="ftxt">
   <tr>
