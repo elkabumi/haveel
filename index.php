@@ -6,6 +6,11 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <link href="css/cssmenu.css" rel="stylesheet" type="text/css" />
 
+<!-- Grid gallery -->
+<link rel="stylesheet" type="text/css" href="css/gridgallery/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/gridgallery/component.css" />
+<script src="js/gridgallery/modernizr.custom.js"></script>
+
 <script type="text/javascript" src="new/jquery.js"></script>
 <script type="text/javascript" src="js/jsmenu.js"></script>
 <script> 
@@ -87,6 +92,10 @@ You may have extensive options of product categories with constant consistency o
 
 </div>
 
+<?php
+include 'grid_gallery.php';
+?>
+
 <div class="footer">
 <div class="footer_first">
 <a href="#"><div class="footer_f_1"></div></a>
@@ -109,6 +118,16 @@ You may have extensive options of product categories with constant consistency o
 
 </body>
 </html>
+
+<!-- grid gallery -->
+
+<script src="js/gridgallery/imagesloaded.pkgd.min.js"></script>
+		<script src="js/gridgallery/masonry.pkgd.min.js"></script>
+		<script src="js/gridgallery/classie.js"></script>
+		<script src="js/gridgallery/cbpGridGallery.js"></script>
+		<script>
+			new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+		</script>
 
 <script type="text/javascript">
 $(window).load(function(){
